@@ -30,3 +30,6 @@ Achieved ~81.6% accuracy on unseen test data.
 - Handle mixed sentiment
 - Extend to multi-class sentiment
 - Deploy as a web app
+
+## Limitations
+The model uses a bag-of-words approach and may struggle with mixed sentiment sentences.
