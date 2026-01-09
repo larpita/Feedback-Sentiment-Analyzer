@@ -7,8 +7,8 @@ A machine learning project that classifies user feedback as Positive or Negative
 - Python
 - Pandas
 - Scikit-learn
-- TF-IDF
-- Logistic Regression
+- TF-IDF (Text vectorization)
+- Logistic Regression (Classification)
 - Gradio (UI)
 
 ## Workflow
